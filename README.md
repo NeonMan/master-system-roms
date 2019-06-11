@@ -13,11 +13,9 @@ Contents
     ├── /comp             ;LZ4 compression library
     ├── /crc              ;CRC implementations
     ├── /mapper-abuse     ;Mapper timing test ROM
-    ├── /noramboot        ;Zero RAM usage Bootloader
     ├── /relocatable      ;Multiple bootloadable ROMs
     ├── /scripts          ;Helper scripts (python 3)
     ├── /sms              ;Master System tool libraries
-    ├── /smspte           ;SMPTE color bars
     ├── /z80-dataset      ;Results of multiple opcodes as run on a real Z80
     ├── console-test.c
     ├── empty.c
